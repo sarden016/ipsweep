@@ -1,3 +1,4 @@
+#this is a short exmaple of ipsweep or pingsweep in a subnet 
 #!/bin/bash
 if [ "$1" == "" ]
 then
